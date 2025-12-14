@@ -154,7 +154,7 @@ We welcome contributions to SweetNest! Here's how you can get involved:
 
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/yourusername/sweetnest.git
+   git clone https://github.com/o5harshit/SweetWebsite
    ```
 
 3. **Create a feature branch**:
