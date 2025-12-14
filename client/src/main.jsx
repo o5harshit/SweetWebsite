@@ -14,11 +14,11 @@ import { Toaster } from "sonner";
 import AppRoot from "@/config/AppRoot";
 import ProtectedAuthRoute from "./config/ProtectedAuthRoute";
 import { PrivateRoute } from "./config/PrivateRoute";
-import SweetStore from "./Pages/SweetStore";
 import Login from "./components/Login";
 import CartPage from "./Pages/CartPage";
 import UpdateSweetPage from "./Pages/UpdateSweetPage";
 import AdminDashboard from "./Pages/AdminDashboard";
+import SweetStore from "./Pages/SweetStore";
 
 const browseRoutes = createBrowserRouter([
   {
