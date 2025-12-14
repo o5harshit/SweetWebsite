@@ -176,32 +176,7 @@ We welcome contributions to SweetNest! Here's how you can get involved:
 
 Please ensure your code follows the existing style and includes appropriate tests if applicable.
 
-## Test Report
 
-### Current Test Status
-**No automated test suite is currently implemented** in this project. The application has been manually tested for core functionality including:
-
-- User registration and login
-- Sweet browsing and search
-- Cart operations (add, remove, update)
-- Purchase flow
-- Admin sweet management
-- Image upload functionality
-
-### Manual Test Results
-- ✅ User authentication works correctly
-- ✅ Sweet CRUD operations function properly
-- ✅ Cart and purchase features are operational
-- ✅ Admin dashboard is accessible and functional
-- ✅ Responsive design works on mobile and desktop
-- ✅ Image upload and display work with Cloudinary integration
-
-### Future Testing Recommendations
-To improve code quality and reliability, consider implementing:
-- Unit tests for React components using Jest and React Testing Library
-- Integration tests for API endpoints using Supertest
-- End-to-end tests using Cypress or Playwright
-- Automated CI/CD pipeline with test execution
 
 ## License
 
