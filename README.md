@@ -79,7 +79,7 @@ A full-stack web application for a sweet store, allowing users to browse, search
 
 1. **Open a new terminal and navigate to the client directory**:
    ```bash
-   cd ../client
+   cd client
    ```
 
 2. **Install dependencies**:
@@ -113,8 +113,8 @@ A full-stack web application for a sweet store, allowing users to browse, search
 
 5. **Admin Functions** (for admin users):
    - Access the admin dashboard.
-   - Add new sweets with images.
-   - Update existing sweet information.
+   - Delete sweets.
+   - Update the sweet stock.
 
 ## Screenshots
 
@@ -174,7 +174,7 @@ We welcome contributions to SweetNest! Here's how you can get involved:
 
 6. **Open a Pull Request** on the main repository.
 
-Please ensure your code follows the existing style and includes appropriate tests if applicable.
+Please ensure your code follows the existing style.
 
 
 
