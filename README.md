@@ -118,20 +118,20 @@ A full-stack web application for a sweet store, allowing users to browse, search
 
 ## Screenshots
 
-### Home Page
-![Home Page](screenshots/homepage.png)
-*Main landing page showcasing featured sweets.*
+### Login Page
+![Login Page]("C:\Users\sriva\OneDrive\Pictures\Screenshots\login.png")
+*Main Login page where the user and admin will login or SignIn.*
 
 ### Sweet Store
-![Sweet Store](screenshots/sweetstore.png)
+![Sweet Store]("C:\Users\sriva\OneDrive\Pictures\Screenshots\sweetsCreation.png")
 *Browse and search available sweets.*
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admindashboard.png)
+![Admin Dashboard]("C:\Users\sriva\OneDrive\Pictures\Screenshots\admin-dashboard.png")
 *Admin interface for managing sweet inventory.*
 
 ### Shopping Cart
-![Shopping Cart](screenshots/cart.png)
+![Shopping Cart]("C:\Users\sriva\OneDrive\Pictures\Screenshots\cart.png")
 *View and manage cart items before purchase.*
 
 ## My AI Usage
