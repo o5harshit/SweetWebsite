@@ -119,21 +119,21 @@ A full-stack web application for a sweet store, allowing users to browse, search
 ## Screenshots
 
 ### Login Page
-![Login Page]<img width="1920" height="1080" alt="login" src="https://github.com/user-attachments/assets/4ef0b1ae-209e-4c81-a03c-028886cb4a03" />
+ <img width="1920" height="1080" alt="login" src="https://github.com/user-attachments/assets/4ef0b1ae-209e-4c81-a03c-028886cb4a03" />
 *Main Login page where the user and admin will login or SignIn.*
 
 ### Sweet Store
-![Sweet Store]<img width="1920" height="1080" alt="sweetsCreation" src="https://github.com/user-attachments/assets/84e8e983-2573-442e-bf46-b0d7f311419f" />
+ <img width="1920" height="1080" alt="sweetsCreation" src="https://github.com/user-attachments/assets/84e8e983-2573-442e-bf46-b0d7f311419f" />
 
 *Browse and search available sweets.*
 
 ### Admin Dashboard
-![Admin Dashboard]<img width="1920" height="1080" alt="admin-dashboard" src="https://github.com/user-attachments/assets/d0225103-62f0-4ee6-a18d-b8e763b4252c" />
+<img width="1920" height="1080" alt="admin-dashboard" src="https://github.com/user-attachments/assets/d0225103-62f0-4ee6-a18d-b8e763b4252c" />
 
 *Admin interface for managing sweet inventory.*
 
 ### Shopping Cart
-![Shopping Cart]<img width="1920" height="1080" alt="cart" src="https://github.com/user-attachments/assets/d66fad3b-e0f6-41f2-80cd-8712fc573922" />
+<img width="1920" height="1080" alt="cart" src="https://github.com/user-attachments/assets/d66fad3b-e0f6-41f2-80cd-8712fc573922" />
 
 *View and manage cart items before purchase.*
 
