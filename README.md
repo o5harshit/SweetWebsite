@@ -119,7 +119,7 @@ A full-stack web application for a sweet store, allowing users to browse, search
 ## Screenshots
 
 ### Login Page
-![Login Page]("C:\Users\sriva\OneDrive\Pictures\Screenshots\login.png")
+![Login Page]<img width="1920" height="1080" alt="login" src="https://github.com/user-attachments/assets/4ef0b1ae-209e-4c81-a03c-028886cb4a03" />
 *Main Login page where the user and admin will login or SignIn.*
 
 ### Sweet Store
